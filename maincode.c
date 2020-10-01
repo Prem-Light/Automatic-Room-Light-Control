@@ -1,3 +1,4 @@
+/Code Starts Here/
 #include<reg51.h>
 #define lcd P1
 sbit rs=P3^6;
